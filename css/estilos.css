@@ -76,6 +76,14 @@ figure{
 	height: 144px;	
 }
 
+figure.edi{
+	margin: 0 80px;
+	position: center;
+	background: #ffffff;
+	text-align: center;
+	width: 120px ;
+	height: 89px;	
+}
 div.imagen1{
 	margin: 0.5em auto;
 	max-width: 200px;
